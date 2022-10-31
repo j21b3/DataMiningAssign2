@@ -71,3 +71,8 @@ with open("./MyData/test.csv", 'w+') as csvFile:
     writer = csv.writer(csvFile)
     writer.writerow(column_name)
     writer.writerows(dataset[:404] + dataset[904:])
+
+with open("./MyData/all.csv", 'w+') as csvFile:
+    writer = csv.writer(csvFile)
+    writer.writerow(column_name)
+    writer.writerows(dataset)
