@@ -1,0 +1,1 @@
+semanticobjscore,semanticsubjscore,CC,CD,DT,EX,FW,INs,JJ,JJR,LS,MD,NNPS,POS,PRP,PRP$,RBS,SYM,UH,VB,VBD,VBG,VBN,VBP,VBZ,WDT,WP$,baseform,Quotes,fullstops,commas,pronouns3rd,compsupadjadv,past,imperative,present3rd,present1st2nd,TextID,URL,NNP,WRB,
