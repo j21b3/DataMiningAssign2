@@ -50,11 +50,6 @@ def get_trainset():
     print(objective_num, subjective_num)
     return trainset
 
-
-# set label: objective - 0, subjective - 1
-for i in range(len(dataset)):
-    dataset[i][2] = 0 if dataset[i][2] == "objective" else 1
-
 # print(set([dataset[i][2] for  i in range(len(dataset))]))
 
 # write csv file
